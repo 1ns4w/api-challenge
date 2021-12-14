@@ -11,3 +11,7 @@ npm run dev
 
 3. Accede al [localhost](http://localhost:4000)
 4. Prueba la API
+
+```
+Nota: Leer los comentarios en server.js para inicializar el servidor exitosamente.
+```
