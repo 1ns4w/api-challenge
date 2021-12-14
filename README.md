@@ -9,5 +9,5 @@ npm init
 npm run dev
 ```
 
-3. Accede al [localhost] (http://localhost:4000)
+3. Accede al [localhost](http://localhost:4000)
 4. Prueba la API
